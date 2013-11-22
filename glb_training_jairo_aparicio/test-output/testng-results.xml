@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14410" started-at="2013-11-21T10:56:14Z" finished-at="2013-11-21T10:56:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14410" started-at="2013-11-21T10:56:14Z" finished-at="2013-11-21T10:56:28Z">
+      <class name="com.globant.training.tests.TestsPageContacAndCalendar">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.globant.training.tests.TestsPageContacAndCalendar@4f71d691]" name="before" is-config="true" duration-ms="7836" started-at="2013-11-21T05:56:14Z" finished-at="2013-11-21T05:56:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="calendarposts()[pri:0, instance:com.globant.training.tests.TestsPageContacAndCalendar@4f71d691]" name="calendarposts" duration-ms="6221" started-at="2013-11-21T05:56:21Z" finished-at="2013-11-21T05:56:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calendarposts -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.globant.training.tests.TestsPageContacAndCalendar@4f71d691]" name="after" is-config="true" duration-ms="337" started-at="2013-11-21T05:56:28Z" finished-at="2013-11-21T05:56:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- com.globant.training.tests.TestsPageContacAndCalendar -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
