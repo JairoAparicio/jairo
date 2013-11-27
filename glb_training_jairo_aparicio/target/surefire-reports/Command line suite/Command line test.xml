@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="GLB-D1442" name="com.globant.training.tests.Tests" tests="6" failures="0" timestamp="27 Nov 2013 14:33:04 GMT" time="114.711" errors="0">
+  <testcase name="GetPostAutor" time="14.638" classname="com.globant.training.tests.Tests"/>
+  <testcase name="SearchingResultPosts" time="14.483" classname="com.globant.training.tests.Tests"/>
+  <testcase name="ValidateSiteTitle" time="4.89" classname="com.globant.training.tests.Tests"/>
+  <testcase name="calendarposts" time="5.378" classname="com.globant.training.tests.TestsPageContacAndCalendar"/>
+  <testcase name="contactUS" time="14.653" classname="com.globant.training.tests.TestsPageContacAndCalendar"/>
+  <testcase name="contactUSFailedAndAgainPassed" time="20.332" classname="com.globant.training.tests.TestsPageContacAndCalendar"/>
+</testsuite>

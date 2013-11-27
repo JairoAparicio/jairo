@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="114711" started-at="2013-11-27T09:31:09Z" finished-at="2013-11-27T09:33:04Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="114711" started-at="2013-11-27T09:31:09Z" finished-at="2013-11-27T09:33:04Z">
+      <class name="com.globant.training.tests.TestsPageContacAndCalendar">
+        <test-method status="PASS" signature="before()" name="before" is-config="true" duration-ms="6063" started-at="2013-11-27T09:32:05Z" finished-at="2013-11-27T09:32:11Z">
+        </test-method>
+        <test-method status="PASS" signature="calendarposts()" name="calendarposts" duration-ms="5378" started-at="2013-11-27T09:32:11Z" finished-at="2013-11-27T09:32:16Z">
+        </test-method>
+        <test-method status="PASS" signature="after()" name="after" is-config="true" duration-ms="276" started-at="2013-11-27T09:32:16Z" finished-at="2013-11-27T09:32:16Z">
+        </test-method>
+        <test-method status="PASS" signature="before()" name="before" is-config="true" duration-ms="5492" started-at="2013-11-27T09:32:16Z" finished-at="2013-11-27T09:32:22Z">
+        </test-method>
+        <test-method status="PASS" signature="contactUS()" name="contactUS" duration-ms="14653" started-at="2013-11-27T09:32:22Z" finished-at="2013-11-27T09:32:37Z">
+        </test-method>
+        <test-method status="PASS" signature="after()" name="after" is-config="true" duration-ms="283" started-at="2013-11-27T09:32:37Z" finished-at="2013-11-27T09:32:37Z">
+        </test-method>
+        <test-method status="PASS" signature="before()" name="before" is-config="true" duration-ms="6526" started-at="2013-11-27T09:32:37Z" finished-at="2013-11-27T09:32:43Z">
+        </test-method>
+        <test-method status="PASS" signature="contactUSFailedAndAgainPassed()" name="contactUSFailedAndAgainPassed" duration-ms="20332" started-at="2013-11-27T09:32:43Z" finished-at="2013-11-27T09:33:04Z">
+        </test-method>
+        <test-method status="PASS" signature="after()" name="after" is-config="true" duration-ms="311" started-at="2013-11-27T09:33:04Z" finished-at="2013-11-27T09:33:04Z">
+        </test-method>
+      </class>
+      <class name="com.globant.training.tests.Tests">
+        <test-method status="PASS" signature="before()" name="before" is-config="true" duration-ms="7785" started-at="2013-11-27T09:31:09Z" finished-at="2013-11-27T09:31:17Z">
+        </test-method>
+        <test-method status="PASS" signature="GetPostAutor()" name="GetPostAutor" duration-ms="14638" started-at="2013-11-27T09:31:17Z" finished-at="2013-11-27T09:31:32Z">
+        </test-method>
+        <test-method status="PASS" signature="after()" name="after" is-config="true" duration-ms="343" started-at="2013-11-27T09:31:32Z" finished-at="2013-11-27T09:31:32Z">
+        </test-method>
+        <test-method status="PASS" signature="before()" name="before" is-config="true" duration-ms="6580" started-at="2013-11-27T09:31:32Z" finished-at="2013-11-27T09:31:39Z">
+        </test-method>
+        <test-method status="PASS" signature="SearchingResultPosts()" name="SearchingResultPosts" duration-ms="14483" started-at="2013-11-27T09:31:39Z" finished-at="2013-11-27T09:31:53Z">
+        </test-method>
+        <test-method status="PASS" signature="after()" name="after" is-config="true" duration-ms="295" started-at="2013-11-27T09:31:53Z" finished-at="2013-11-27T09:31:53Z">
+        </test-method>
+        <test-method status="PASS" signature="before()" name="before" is-config="true" duration-ms="6093" started-at="2013-11-27T09:31:53Z" finished-at="2013-11-27T09:32:00Z">
+        </test-method>
+        <test-method status="PASS" signature="ValidateSiteTitle()" name="ValidateSiteTitle" duration-ms="4890" started-at="2013-11-27T09:32:00Z" finished-at="2013-11-27T09:32:04Z">
+        </test-method>
+        <test-method status="PASS" signature="after()" name="after" is-config="true" duration-ms="273" started-at="2013-11-27T09:32:04Z" finished-at="2013-11-27T09:32:05Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
